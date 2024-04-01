@@ -1,1 +1,1 @@
-# this is a repor initialized in the local system and later pushed to git 
+# this is a repo initialized in the local system and later pushed to git 
